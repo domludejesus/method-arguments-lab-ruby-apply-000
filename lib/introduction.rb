@@ -1,8 +1,8 @@
-def #introduction(name, language)
+def #introduction_with_language(name, language)
   
-  puts 'Hi my name is #{name} and I program with #{language}'
+  puts "Hi, my name is #{name} and am learning to program in #{language}""
   
   
 end 
 
-#introduction('Dom', 'Ruby')
+#introduction_with_language("Dom", "Ruby")
